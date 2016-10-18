@@ -1,10 +1,12 @@
 #Nilavu
 
-[![Build Status](https://travis-ci.org/megamsys/nilavu.png?branch=1.5)](https://travis-ci.org/megamsys/nilavu)
+[![Build Status](https://travis-ci.org/VirtEngine/Nilavu.png?branch=1.5)](https://travis-ci.org/VirtEngine/Nilavu)
 
-Nilavu is a [Rails 4.2.x](http://guides.rubyonrails.org/) ember.js browser based user interface for [Vertice - PaaS for the hosting industry](https://www.megam.io).
+Nilavu is a [Rails 4.2.x](http://guides.rubyonrails.org/) Ember.js browser based user interface for [VirtEngine](https://virtengine.com). 
 
-# I am an individual or enterprise that would like to manage our internal infrastructure
+VirtEngine is a powerful Cloud Platform that can be utilized to build Private Clouds or [Public Clouds](https://docs.virtengine.com/#billing)
+
+# I am an individual / enterprise / startup that would like to manage our internal infrastructure
 
 1. Do you want to increase your efficiency in managing your infrastructure?
 2. Would like to deploy applications (Custom or Pre-packaged) in seconds?
@@ -13,7 +15,7 @@ Nilavu is a [Rails 4.2.x](http://guides.rubyonrails.org/) ember.js browser based
 5. Do you need to convert raw harddisks to cloud storage in a jizzy?
 6. Would love to have a fully redundant private cloud that just never goes down?
 
-Visit [Megam](https://www.megam.io) and optimize your private cloud now!
+Utilize our OpenSource private cloud software!
 
 We have an enterprise edition that also enhances our features!
 
@@ -25,11 +27,15 @@ We have an enterprise edition that also enhances our features!
 
 Visit [VirtEngine](http://virtengine.com) and stay ahead of cluggy/old `SolusVM`.
 
-[VirtEngine](http://virtengine.com) has automation tools and offers integration with billing!
+[VirtEngine](http://virtengine.com) designed for Service Providers!
 
 # Features
 
-[vertice.megam.io](https://vertice.megam.io)
+[VirtEngine Documentation](https://docs.virtengine.com)
+
+# Blog
+
+[VirtEngine Blog](https://blog.virtengine.com)
 
 ##OpenSource
 
@@ -114,14 +120,10 @@ Type http://localhost:3000
 
 Now you are all set.
 
-# Contribution
-
-For [contribution] (https://github.com/megamsys/vertice/blob/master/CONTRIBUTING.md)
-
 # Documentation
 
-For [documentation] (http://docs.megam.io)
-    [wiki] (https://github.com/megamsys/vertice/wiki)
+For [documentation] (http://docs.virtengine.com)
+    [blog] (https://blog.virtengine.com)
 
 # License
 
