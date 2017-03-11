@@ -139,4 +139,4 @@ Distributors (Public Cloud Edition): DET.io (<jonathan@det.io>)
 
 Test user interfaces with any browser both manually and automatically! A great way to ensure user experience is always as expected.
 
-![BrowserStack](https://www.browserstack.com/images/layout/browserstack-logo-600x315.png)
+![[BrowserStack](http://browserstack.com)](https://www.browserstack.com/images/layout/browserstack-logo-600x315.png)
