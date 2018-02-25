@@ -132,10 +132,10 @@ MIT
 
 # Authors
 
-##Developers
+### Developers
 
 Megam (<info@megam.io>)
 DET.io (<jonathan@det.io>)
             
-##Distributors
+### Distributors
 [VirtEngine](https://www.virtengine.com) (<hello@virtengine.com>)
