@@ -136,9 +136,3 @@ Developers: Megam (<info@megam.io>)
             DET.io (<jonathan@det.io>)
             
 Distributors: VirtEngine (<hello@virtengine.com>)
-
-# Tools
-
-Test user interfaces with any browser both manually and automatically! A great way to ensure user experience is always as expected.
-
-![[BrowserStack](http://browserstack.com)](https://www.browserstack.com/images/layout/browserstack-logo-600x315.png)
