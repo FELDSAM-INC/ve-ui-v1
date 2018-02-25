@@ -132,8 +132,10 @@ MIT
 
 # Authors
 
-Maintainers: Megam (<info@megam.io>)
-Distributors (Public Cloud Edition): DET.io (<jonathan@det.io>)
+Developers: Megam (<info@megam.io>)
+            DET.io (<jonathan@det.io>)
+            
+Distributors: VirtEngine (<hello@virtengine.com>)
 
 # Tools
 
