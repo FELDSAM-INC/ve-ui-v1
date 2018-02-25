@@ -133,6 +133,7 @@ MIT
 # Authors
 
 Developers: Megam (<info@megam.io>)
+
             DET.io (<jonathan@det.io>)
             
 Distributors: VirtEngine (<hello@virtengine.com>)
